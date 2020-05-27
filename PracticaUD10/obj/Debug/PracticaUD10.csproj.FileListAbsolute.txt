@@ -1,0 +1,9 @@
+C:\Users\josel\Source\Repos\JLEDAW\practicaUD10\PracticaUD10\bin\Debug\PracticaUD10.exe.config
+C:\Users\josel\Source\Repos\JLEDAW\practicaUD10\PracticaUD10\bin\Debug\PracticaUD10.exe
+C:\Users\josel\Source\Repos\JLEDAW\practicaUD10\PracticaUD10\bin\Debug\PracticaUD10.pdb
+C:\Users\josel\Source\Repos\JLEDAW\practicaUD10\PracticaUD10\obj\Debug\PracticaUD10.csprojAssemblyReference.cache
+C:\Users\josel\Source\Repos\JLEDAW\practicaUD10\PracticaUD10\obj\Debug\PracticaUD10.Form1.resources
+C:\Users\josel\Source\Repos\JLEDAW\practicaUD10\PracticaUD10\obj\Debug\PracticaUD10.Properties.Resources.resources
+C:\Users\josel\Source\Repos\JLEDAW\practicaUD10\PracticaUD10\obj\Debug\PracticaUD10.csproj.GenerateResource.cache
+C:\Users\josel\Source\Repos\JLEDAW\practicaUD10\PracticaUD10\obj\Debug\PracticaUD10.exe
+C:\Users\josel\Source\Repos\JLEDAW\practicaUD10\PracticaUD10\obj\Debug\PracticaUD10.pdb
